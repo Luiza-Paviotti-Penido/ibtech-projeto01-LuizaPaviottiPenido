@@ -8,15 +8,6 @@ A estilização do site foi pensada para o menu ser um céu estrelado (estrelas 
 - HTML
 - CSS
 
-## Estrutura do projeto
-ibtech-projeto01-luizapaviottipenido/
-│── index.html
-│── style.css
-│── README.md
-│── assets/
-│    ├── avatar.jpeg
-│    └── print-site.png
-
 ## Como executar
 Abrir o arquivo index.html em qualquer navegador.
 
